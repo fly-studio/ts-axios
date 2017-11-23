@@ -1,0 +1,4 @@
+{
+	"name": "axios",
+	"typings": "src/index.d.ts"
+}
