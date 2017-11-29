@@ -1,4 +1,4 @@
 {
 	"name": "axios",
-	"typings": "src/index.d.ts"
+	"typings": "src/axios.d.ts"
 }

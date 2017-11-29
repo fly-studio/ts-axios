@@ -1,9 +1,7 @@
 {
 	"compilerOptions": {
 		"target": "es5",
-		"noImplicitAny": false,
-		"sourceMap": false,
-		"declaration": true,
+		"sourceMap": true,
 		"allowJs": true,
 		"outFile": "bin/axios.js"
 	},
